@@ -74,11 +74,11 @@ Al iniciar, se abrirá la ventana principal de la interfaz gráfica.
 
 ### 4.1. Procesos en ejecución y en cola
 
-![Procesos en ejecución y cola](images/imagen1.jpg)
+![Procesos en ejecución y cola](Images/Imagen1.jpg)
 
 ### 4.2. Estado actual de la memoria RAM
 
-![Estado de la memoria RAM](/images/imagen2.jpg)
+![Estado de la memoria RAM](Images/Imagen2.jpg)
 
 ---
 
