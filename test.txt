@@ -1,0 +1,2 @@
+*Test
+Este es un código de prueba para verificar el funcionamiento del archivo test.txt.
